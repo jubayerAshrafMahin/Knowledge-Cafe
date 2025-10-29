@@ -38,7 +38,7 @@ Follow these steps to get the project running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPO_URL_HERE]
+    git clone https://github.com/jubayerAshrafMahin/Knowledge-Cafe.git
     cd knowledge-cafe
     ```
 2.  **Install dependencies:**
