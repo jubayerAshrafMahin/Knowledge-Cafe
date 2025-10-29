@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "blogCover": "https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "blogTitle": "The AI Revolution: Trends Shaping the Next Decade",
+    "blogSubtitle": "Exploring Generative AI, Edge Computing, and ethical frameworks that will redefine industry standards.",
+    "publishDate": "15th October, 2025",
+    "author": "Dr. Andrew Adams",
+    "authorImage": "https://images.pexels.com/photos/3777567/pexels-photo-3777567.jpeg?auto=compress&cs=tinysrgb&w=160&h=160&dpr=1",
+    "readingTime": 7
+  },
+  {
+    "id": 2,
+    "blogCover": "https://plus.unsplash.com/premium_photo-1733317453473-175c9831c874?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "blogTitle": "Quantum Computing Fundamentals: A Beginner's Guide",
+    "blogSubtitle": "Understanding Qubits, superposition, and entanglement without a physics degree.",
+    "publishDate": "28th September, 2025",
+    "author": "Marcus Chen",
+    "authorImage": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=160&h=160&dpr=1",
+    "readingTime": 12
+  },
+  {
+    "id": 3,
+    "blogCover": "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "blogTitle": "Top 5 Cybersecurity Threats to Watch in 2025",
+    "blogSubtitle": "From deepfake phishing to supply chain attacks: how to protect your organization now.",
+    "publishDate": "10th October, 2025",
+    "author": "Blake James",
+    "authorImage": "https://images.unsplash.com/photo-1654110455429-cf322b40a906?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880",
+    "readingTime": 5
+  },
+  {
+    "id": 4,
+    "blogCover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070",
+    "blogTitle": "Comparing the Latest JavaScript Frameworks: React vs. Vue vs. Svelte",
+    "blogSubtitle": "A detailed benchmark of performance, developer experience, and community support in 2025.",
+    "publishDate": "12th October, 2025",
+    "author": "Usman Khan",
+    "authorImage": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "readingTime": 9
+  },
+  {
+    "id": 5,
+    "blogCover": "https://images.unsplash.com/photo-1667984550708-a6beba23cb4c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "blogTitle": "Beyond Speed: The True Impact of 5G on IoT",
+    "blogSubtitle": "How ultra-low latency is enabling new use cases in smart cities, health, and manufacturing.",
+    "publishDate": "8th October, 2025",
+    "author": "Ethan Miller",
+    "authorImage": "https://images.pexels.com/photos/834863/pexels-photo-834863.jpeg?auto=compress&cs=tinysrgb&w=160&h=160&dpr=1",
+    "readingTime": 6
+  },
+  {
+    "id": 6,
+    "blogCover": "https://images.unsplash.com/photo-1667372335962-5fd503a8ae5b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "blogTitle": "Implementing DevOps: Best Practices for Small Teams",
+    "blogSubtitle": "A practical guide to CI/CD, Infrastructure as Code, and monitoring for startups.",
+    "publishDate": "27th September, 2025",
+    "author": "Liam O'Connell",
+    "authorImage": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "readingTime": 8
+  }
+]
